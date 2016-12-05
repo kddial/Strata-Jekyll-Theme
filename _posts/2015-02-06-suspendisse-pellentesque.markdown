@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Suspendisse pellentesque
-date: 2015-02-06 14:37:44
-categories: update
+date: 2015-02-06 14:37:44 Z
+categories:
+- update
+layout: post
 ---
-
 
 ![](/images/fulls/01.jpg){: .fit.image}
 
